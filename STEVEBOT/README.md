@@ -1,4 +1,4 @@
-# Sam-Bot
+# Steve-Bot
 A telegram bot to manage your expenditure, debts etc.
 
 # Features
@@ -11,4 +11,5 @@ A telegram bot to manage your expenditure, debts etc.
 - Add transaction (your transaction)
 - View user
 - View transactions
-- Calculate amount owed to friend
+- Calculate amount owed to friend (Check Payables)
+
